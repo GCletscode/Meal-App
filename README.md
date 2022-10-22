@@ -1,6 +1,6 @@
 # meal
 
-A new Flutter project.
+An App with variety of meal,on selected provide you with the different dishes.On selecting tells you the ingridients needed and steps to prepare the dish.
 
 ## Getting Started
 
